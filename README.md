@@ -10,6 +10,9 @@ Docker Steps
 ![image](https://github.com/snehamathur01/DockerWeek1/assets/51332122/213b51fc-accf-449a-8949-0e1e49271fc0)
 ![image](https://github.com/snehamathur01/DockerWeek1/assets/51332122/2b9c01de-e6ed-4bb4-a891-ec96c1e549f5)
 ![image](https://github.com/snehamathur01/DockerWeek1/assets/51332122/cf8c6544-7f7e-4451-a3c9-27c18e714e94)
+![image](https://github.com/snehamathur01/DockerWeek1/assets/51332122/84d0fbf9-c8ad-450e-9f06-5cb685dc68cc)
+
+
 
 
 
